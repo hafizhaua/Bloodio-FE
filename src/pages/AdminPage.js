@@ -294,9 +294,6 @@ export default function AdminPage() {
                         data-aos-delay={200}
                         title="Tabel List Akun Terdaftar"
                         bordered={false}
-                        // pagination={{
-                        //     position: ["none", "none"],
-                        // }}
                         style={{
                             width: "100%",
                             margin: "2rem auto",
